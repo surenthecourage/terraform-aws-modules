@@ -1,0 +1,4 @@
+environments/nprd/.terraform
+environments/nprd/.terraform.lock.hcl
+environments/nprd/terraform.tfstate
+environments/nprd/terraform.tfstate.backup
